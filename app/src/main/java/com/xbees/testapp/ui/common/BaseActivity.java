@@ -1,4 +1,4 @@
-package com.xbees.testapp.ui;
+package com.xbees.testapp.ui.common;
 
 import android.os.Bundle;
 

@@ -1,7 +1,7 @@
 package com.xbees.testapp.di.builders;
 
 
-import com.xbees.testapp.ui.TestFragment;
+import com.xbees.testapp.ui.testui.TestFragment;
 
 import dagger.Module;
 import dagger.android.ContributesAndroidInjector;

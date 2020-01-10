@@ -4,8 +4,8 @@ import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
 
-import com.xbees.testapp.ui.TestViewModel;
-import com.xbees.testapp.ui.ViewModelFactory;
+import com.xbees.testapp.ui.testui.TestViewModel;
+import com.xbees.testapp.ui.common.ViewModelFactory;
 
 import dagger.Binds;
 import dagger.Module;

@@ -1,4 +1,4 @@
-package com.xbees.testapp.ui;
+package com.xbees.testapp.ui.common;
 
 
 import androidx.annotation.NonNull;

@@ -1,7 +1,7 @@
 package com.xbees.testapp.di.builders;
 
 
-import com.xbees.testapp.ui.BaseActivity;
+import com.xbees.testapp.ui.common.BaseActivity;
 
 import dagger.Module;
 import dagger.android.ContributesAndroidInjector;
